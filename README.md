@@ -78,4 +78,3 @@ como sería el proceso de automatización de dos tipos de instrucciones SQL.
 Finalmente, es importante mencionar que todo el proyecto se encuentra límitado por la existencia de hipervínculos en el índice, en caso de no existir,
 el aplicativo no podrá obtener el índice del archivo proporcionado y tampoco las instrucciones sql. Por ello, se desea actualizar esta versión para usar otras 
 herramientas para extraer información.
->>>>>>> 2418a1c (Automatización de queries y obtención de anexo de un PDF)
