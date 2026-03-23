@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# obtener_indice
-=======
+
 # Obtener anexo de un archivo PDF a través de un índice
 ## Objetivo:
 Desarrollar un algoritmo capaz de extraer secciones específicas (anexos) de un archivo PDF utilizando como "pivote" los hipervínculos integrados en su índice.
